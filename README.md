@@ -2,10 +2,10 @@ Scalar Product Transform: Symmetry Scores from Arbitrary Patch Embeddings
 =========================================================================
 
 The Scalar Product Transform (SPT) computes scores for C_2 rotational
-symmetries, aka point reflection symmetries, from patch embeddings as, e.g.,
-computed by Franca or DINO. High scores correspond to symmetry centers,
-and, for each potential symmetry center point, the symmetry region is
-determined.
+symmetries, also known as point reflection symmetries, from patch embeddings
+as, e.g., computed by Franca or DINO. High scores correspond to symmetry
+centers, and, for each potential symmetry center point, the symmetry region is
+estimated.
 
 This code implements the algorithm described in:
 
