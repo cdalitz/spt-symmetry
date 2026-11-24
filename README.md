@@ -1,4 +1,4 @@
-Scalar Product Transform: Symmetry scores from arbitrary patch embeddings
+Scalar Product Transform: Symmetry Scores from Arbitrary Patch Embeddings
 =========================================================================
 
 The Scalar Product Transform (SPT) computes scores for C_2 rotational
